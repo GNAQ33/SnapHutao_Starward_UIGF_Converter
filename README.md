@@ -6,7 +6,7 @@
 使用方法：
 
 - 从 release 中下载发行包，并解压至同一目录
-- 运行脚本 `sh_to_starward.py`，首先选择下载的仓库的元数据标注 JSON `GIGacha_Metadata_xxxxxxxx.json`，然后选择 Snap Hutao 导出 JSON 和转换后的保存目录。
+- 运行文件，首先选择下载的仓库的元数据标注 JSON `GIGacha_Metadata_xxxxxxxx.json`，然后选择 Snap Hutao 导出 JSON 和转换后的保存目录。
 - 得到转换后的 Starward 导入 JSON
 
 或者 
